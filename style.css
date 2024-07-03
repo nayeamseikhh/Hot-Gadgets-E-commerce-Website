@@ -1,3 +1,29 @@
-.navbar-collapse{
-    padding-left: 300px;
+.container{
+    margin-top: 50px;
+}
+.navbar-color{
+    color: gray;
+}
+.button{
+    border-radius: 5px;
+    background-color: black;
+    color: antiquewhite;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.mackbook-pro{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: 610px;
+}
+.bg-2{
+    float: bottom;
+}
+.mackbook-pro-imeges{
+    float: left;
+    width: 100%;
+}
+.mac-text{
+padding: 200px;
 }
