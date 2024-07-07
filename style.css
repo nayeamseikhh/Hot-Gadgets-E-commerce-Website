@@ -12,13 +12,14 @@
     cursor: pointer;
 
 }
-.mackbook-pro{
+.mac-area{
     background-image: url(bg-1.png);
     background-repeat: no-repeat;
-    background-position: 610px;
+    margin-left: 0px;
 }
 .bg-2{
-    float: bottom;
+    padding: 100px;
+   margin-left: -400px;
 }
 .mackbook-pro-imeges{
     float: left;
@@ -26,4 +27,20 @@
 }
 .mac-text{
 padding: 200px;
+}
+.see-all{
+    color: orange;
+}
+.card-button{
+    border-radius: 5px;
+    background-color: black;
+    color: antiquewhite;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    
 }
